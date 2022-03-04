@@ -1,0 +1,6 @@
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\marit\source\repos\Ejercicios_3\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
